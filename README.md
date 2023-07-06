@@ -1,2 +1,2 @@
 # collisions-NY
-Collisions data in NY
+Code to analyze and explore collisions data in NY
