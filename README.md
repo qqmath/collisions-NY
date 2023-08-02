@@ -3,7 +3,7 @@
 This Streamlit dashboard is designed to analyze motor vehicle collisions in New York City (NYC). It provides interactive visualizations and insights into the collision data from the specified CSV file.
 
 ## Data Source
-The data used for this analysis is sourced from the CSV file located at the website https://www.nyc.gov/site/nypd/stats/traffic-data/traffic-data-collision.page
+The data used for this analysis is sourced from the data located at the website https://www.nyc.gov/site/nypd/stats/traffic-data/traffic-data-collision.page.
 
 ## Usage
 To use this dashboard, make sure you have the required dependencies installed. You can run the application by executing the script containing the code.
