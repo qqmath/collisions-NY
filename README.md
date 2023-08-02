@@ -45,4 +45,5 @@ The data from the CSV file is preprocessed using the `load_data` function to han
 ## Note
 Please ensure that the `data.csv` file is available at the specified location before running the application.
 
-Feel free to explore the dashboard and gain valuable insights into motor vehicle collisions in NYC. For any questions or feedback, please contact me. Happy analyzing!
+Feel free to explore the dashboard and gain valuable insights into motor vehicle collisions in NYC. This app was created when studying the course "Build a Data Science Web App with Streamlit and Python" https://www.coursera.org/projects/data-science-streamlit-python.
+For any questions or feedback, please contact me. Happy analyzing!
